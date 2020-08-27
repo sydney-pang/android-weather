@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="transparent_100">#00000000</color>
+    <color name="blue">#3e5e7a</color>
+    <color name="blue_translucent">#773e5e7a</color>
+    <color name="red">#f32d19</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="gray_werewolf">#474747</color>
+    <color name="gray_taupe">#878787</color>
+
+</resources>
